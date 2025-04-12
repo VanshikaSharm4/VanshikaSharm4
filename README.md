@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vanshika Sharma
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning web development, DSA and linux
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently working on DSA, React and python
 - 📫 How to reach me :
 - LinkedIn => https://www.linkedin.com/in/vanshika-sharma-191622270/
 - email => vanshikkasharma345@gmail.com
