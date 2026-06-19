@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Vanshika Sharma
-- 👀 I’m interested in learning new technologies
-- web development, MERN, cloud, java, springboot, angular, c++, python
-- 📫 How to reach me :
+- 👋 Hi, I’m Vanshika
+- How to reach me :
 - LinkedIn => https://www.linkedin.com/in/vanshika-sharma-191622270/
-- email => vanshikkasharma345@gmail.com
+
 
 
 <!---
