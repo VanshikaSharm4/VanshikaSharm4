@@ -1,9 +1,9 @@
 👋 Hi, I’m Vanshika
-• Machine Learning & Deep Learning
-• RAG, Generative AI, and Vector Databases
-• Full-Stack Web Development
-• DevOps: AWS Cloud, CI/CD Pipelines, and Kubernetes
-• Reach me at:
+- Machine Learning & Deep Learning
+- RAG, Generative AI, and Vector Databases
+- Full-Stack Web Development
+- DevOps: AWS Cloud, CI/CD Pipelines, and Kubernetes
+- Reach me at:
 - LinkedIn => https://www.linkedin.com/in/vanshika-sharma-191622270/
 
 
